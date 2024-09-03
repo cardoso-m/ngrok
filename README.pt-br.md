@@ -1,4 +1,7 @@
 # Integrando APIs Localmente com PHP/Laravel usando Ngrok
+[![pt-br](https://img.shields.io/badge/language-pt--br-green.svg)](https://github.com/cardoso-m/ngrok/blob/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/language-en-orange.svg)](https://github.com/cardoso-m/ngrok/blob/main/README.md)
+[![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/go-snippets.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/cardoso-m/ngrok)
 
 ## Introdução
 
